@@ -132,7 +132,6 @@
 <table>
   <tr>
     <th>Ecole 42 Projects</th>
-    <th></th>
   </tr>
   
   <tr>
