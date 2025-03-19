@@ -30,10 +30,10 @@
         <li><strong>Final Grade</strong>: $${\color{lightgreen}118 / 100}$$ (Completed Some Bonus)</li>
       </ul>
       <div>
-        <img alt="Static Badge" src="https://img.shields.io/badge/Python3--brightgreen?style=for-the-badge&logo=python"/>
         <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript--brightgreen?style=for-the-badge&logo=javascript"/>
-        <img alt="Static Badge" src="https://img.shields.io/badge/Docker--brightgreen?style=for-the-badge&logo=docker"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Python3--brightgreen?style=for-the-badge&logo=python"/>
         <img alt="Static Badge" src="https://img.shields.io/badge/Django--brightgreen?style=for-the-badge&logo=django"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Docker--brightgreen?style=for-the-badge&logo=docker"/>
         <img alt="Static Badge" src="https://img.shields.io/badge/PostgresQL--brightgreen?style=for-the-badge&logo=postgresql"/>
         <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
         <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
@@ -205,7 +205,7 @@
   </tr>
 
   <tr>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td><img src="./assets/gifs/Push_swap.gif" width="400"></td>
     <td>
       <strong><a href="https://github.com/Drewski6/push_swap">Push_Swap</a></strong><br>
       <ul>
@@ -300,7 +300,7 @@
   </tr>
 
   <tr>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td><img src="./assets/images/C_Piscine.png" width="400"></td>
     <td>
       <strong><a href="https://github.com/Drewski6/C_Piscine">C Piscine</a> (Tryouts to get into the school)</strong><br>
       <ul>
