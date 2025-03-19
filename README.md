@@ -81,7 +81,7 @@
   </tr>
   
   <tr>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td><img src="./assets/images/CPP_09.png" width="400"></td>
     <td>
       <strong><a href="https://github.com/Drewski6/cpp">C++ Modules</a> (10 in total)</strong><br>
       <ul>
@@ -117,7 +117,7 @@
   </tr>
 
   <tr>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td><img src="./assets/images/NetPractice.png" width="400"></td>
     <td>
       <strong><a href="https://github.com/Drewski6/NetPractice">NetPractice</a></strong><br>
       <ul>
@@ -133,7 +133,7 @@
   </tr>
 
   <tr>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td><img src="./assets/images/Philosophers.png" width="400"></td>
     <td>
       <strong><a href="https://github.com/Drewski6/philosophers">Philosophers</a></strong><br>
       <ul>
@@ -151,7 +151,7 @@
   </tr>
 
   <tr>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td><img src="./assets/images/MiniShell.png" width="400"></td>
     <td>
       <strong><a href="https://github.com/Drewski6/minishell">MiniShell</a></strong><br>
       <ul>
