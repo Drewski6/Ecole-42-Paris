@@ -137,7 +137,7 @@
     <td>
       <strong><a href="https://github.com/Drewski6/philosophers">Philosophers</a></strong><br>
       <ul>
-        <li>Solve the dining philosophers problem using threads and mutexes.</li>
+        <li>Solve the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">dining philosophers</a> problem using threads and mutexes.</li>
         <li><strong>Solo Project</strong></li>
         <li>Time spent: Beginning October 2023 to End October 2023 (~ 1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
