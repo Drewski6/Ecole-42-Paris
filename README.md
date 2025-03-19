@@ -3,7 +3,7 @@
 ### What is Ecole 42?
 
 <p style="text-indent: 2rem;">
-  École 42 in Paris is an innovative, tuition-free coding school that revolutionizes the way programming is taught. It offers a rigorous, project-based curriculum where students learn through hands-on experience and peer collaboration rather than traditional lectures or professors. The school is known for its unique "peer-to-peer" learning model, which fosters a self-driven, independent approach to problem-solving. Students must overcome obstacles, work long hours, and engage in continuous collaboration, pushing them to develop not only technical skills but also perseverance, adaptability, and teamwork, setting it apart from conventional programming schools.
+  &nbsp;École 42 in Paris is an innovative, tuition-free coding school that revolutionizes the way programming is taught. It offers a rigorous, project-based curriculum where students learn through hands-on experience and peer collaboration rather than traditional lectures or professors. The school is known for its unique "peer-to-peer" learning model, which fosters a self-driven, independent approach to problem-solving. Students must overcome obstacles, work long hours, and engage in continuous collaboration, pushing them to develop not only technical skills but also perseverance, adaptability, and teamwork, setting it apart from conventional programming schools.
 </p>
 
 ### About Me
@@ -22,11 +22,9 @@
   <tr>
     <td><img src="./assets/images/scsh.png" width="400"></td>
     <td>
-      <strong>ft_transcendence</strong><br>
+      <strong><a href="https://github.com/Drewski6/ft_transcendence">ft_transcendence</a></strong><br>
       - <strong>Partner project</strong> Team size: <strong>3</strong><br>
       - Time spent: October 2024 to January 2025 (4 months)<br>
-      - GitHub Repo: <a href="https://github.com/Drewski6/ft_transcendence">ft_transcendence</a><br>
-      <!-- - <strong>Final Grade</strong>: <strong><span style="color: green;">118 / 100</span></strong> (Completed Some Bonus)<br> -->
       - <strong>Final Grade</strong>: $${\color{lightgreen}118 / 100}$$ (Completed Some Bonus)<br>
     </td>
   </tr>
