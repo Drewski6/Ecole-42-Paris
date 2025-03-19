@@ -19,7 +19,7 @@
       - Time spent: October 2024 to January 2025 (4 months)<br>
       - GitHub Repo: <a href="https://github.com/Drewski6/ft_transcendence">ft_transcendence</a><br>
       - Final Grade: <strong><span style="color: #4d853a;">118 / 100</span></strong> (Completed Some Bonus)<br>
-      - Description<br>
+      - Description: this is a long description so that I can see how it lays out on the github readme page. this is a long description so that I can see how it lays out on the github readme page. this is a long description so that I can see how it lays out on the github readme page. this is a long description so that I can see how it lays out on the github readme page. this is a long description so that I can see how it lays out on the github readme page. this is a long description so that I can see how it lays out on the github readme page.<br>
       - Most important things I learned
     </td>
   </tr>
