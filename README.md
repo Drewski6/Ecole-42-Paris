@@ -198,7 +198,7 @@
       - <strong>Solo Projects </strong>with high emphasis on <strong>working collaboratively</strong> with other tryout participants<br>
       - Time spent: August 2022 (every day for 4 weeks)<br>
       - GitHub Repo: <a href="https://github.com/Drewski6/C_Piscine">C Piscine</a><br>
-      - <strong>Final Result</strong>: <strong>Accepted</strong> and admitted as full-time student!<br>
+      - <strong>Final Result</strong>: <strong>$${\color{lightgreen}Accepted}$$</strong> and admitted as full-time student!<br>
     </td>
   </tr>
 
