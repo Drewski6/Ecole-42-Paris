@@ -26,7 +26,8 @@
       - <strong>Partner project</strong> Team size: <strong>3</strong><br>
       - Time spent: October 2024 to January 2025 (4 months)<br>
       - GitHub Repo: <a href="https://github.com/Drewski6/ft_transcendence">ft_transcendence</a><br>
-      - <strong>Final Grade</strong>: <strong><span style="color: green;">118 / 100</span></strong> (Completed Some Bonus)<br>
+      <!-- - <strong>Final Grade</strong>: <strong><span style="color: green;">118 / 100</span></strong> (Completed Some Bonus)<br> -->
+      - <strong>Final Grade</strong>: <strong>$${\color{lightgreen}118 / 100}$$</strong> (Completed Some Bonus)<br>
       - $${\color{red}Red}$$
     </td>
   </tr>
