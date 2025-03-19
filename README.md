@@ -1,15 +1,15 @@
-# Ecole-42-Paris
+# École 42 - Paris, Fr
 
-### What is Ecole 42?
+### What is École 42?
 
 <p style="text-indent: 2rem;">
-  &nbsp;&nbsp;&nbsp;&nbsp;École 42 in Paris is an innovative, tuition-free coding school that revolutionizes the way programming is taught. It offers a rigorous, project-based curriculum where students learn through hands-on experience and peer collaboration rather than traditional lectures or professors. The school is known for its unique "peer-to-peer" learning model, which fosters a self-driven, independent approach to problem-solving. Students must overcome obstacles, work long hours, and engage in continuous collaboration, pushing them to develop not only technical skills but also perseverance, adaptability, and teamwork, setting it apart from conventional programming schools.
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://42.fr">École 42</a> in Paris is an innovative, tuition-free coding school that revolutionizes the way programming is taught. It offers a rigorous, project-based curriculum where students learn through hands-on experience and peer collaboration rather than traditional lectures or professors. The school is known for its unique "peer-to-peer" learning model, which fosters a self-driven, independent approach to problem-solving. Students must overcome obstacles, work long hours, and engage in continuous collaboration, pushing them to develop not only technical skills but also perseverance, adaptability, and teamwork, setting it apart from conventional programming schools.
 </p>
 
-### About Me
+### My 42 Journey
 
 <p style="text-indent: 2rem;">
-  &nbsp;&nbsp;&nbsp;&nbsp;I Started Ecole 42 in Paris, France in August 2022 with the C Picsine. After the 1 month long try-outs I was accepted into the school and started the common core in November 2022. I finished the common core in January 2025.
+  &nbsp;&nbsp;&nbsp;&nbsp;I Started École 42 in Paris, France in August 2022 with the C picsine. After the 1 month long try-outs I was accepted into the school and started the common core in November 2022. I finished the common core in January 2025.
 </p>
 
 ## Ecole 42 Projects - Listed in order from most recent to oldest
