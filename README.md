@@ -129,8 +129,61 @@
 
 ## Testing
 
-| thing 1 | thing 2 |
-|---|---|
-| info | picture |
-| more info | another picture |
-| item<br>item2| <img src="./assets/images/scsh.png" width="500"> |
+<table>
+  <tr>
+    <th>Ecole 42 Projects</th>
+    <th></th>
+  </tr>
+  
+  <tr>
+    <td>
+      <strong>ft_transcendence</strong><br>
+      - Partner project (Teamsize = 3)<br>
+      - Time spent: October 2024 to January 2025 (4 months)<br>
+      - Link: <a href="https://github.com/Drewski6/ft_transcendence">ft_transcendence</a><br>
+      - Final Grade: 118 / 100 (Completed Some Bonus)<br>
+      - Description<br>
+      - Most important things I learned
+    </td>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>Inception</strong><br>
+      - Solo Project<br>
+      - Time spent: August 2024 to September 2024 (2 months including vacations)<br>
+      - Link: <a href="https://github.com/Drewski6/inception">Inception</a><br>
+      - Final Grade: 100 / 100 (Bonus Not Completed)
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <strong>ft_irc</strong><br>
+      - Partner project (Teamsize = 2)<br>
+      - Time spent: End May 2024 to End July 2024 (2 months)<br>
+      - Link: <a href="https://github.com/Drewski6/ft_irc">ft_irc</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">115 / 100</span></strong> (Completed Some Bonus)
+    </td>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>C++ Modules (10 in total)</strong><br>
+      - Solo Project<br>
+      - Time spent: End January 2024 to End May 2024 (4 months)<br>
+      - Link: <a href="https://github.com/Drewski6/cpp">C++ Modules</a><br>
+      - Final Grade: 100 / 100 (Bonus Not Available)<br>
+      - Description: Intro to object-oriented programming with strict constraints.
+    </td>
+  </tr>
+
+  <tr>
+    <th>C Piscine</th>
+    <th></th>
+  </tr>
+</table>
