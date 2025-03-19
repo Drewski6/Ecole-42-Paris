@@ -169,7 +169,7 @@
   </tr>
 
   <tr>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td><img src="./assets/gifs/Fdf.gif" width="400"></td>
     <td>
       <strong><a href="https://github.com/Drewski6/FdF">FdF</a> (Fil de Fer / Wireframe Model)</strong><br>
       <ul>
