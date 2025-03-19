@@ -205,7 +205,7 @@
   </tr>
 
   <tr>
-    <td><img src="./assets/gifs/Push_swap.gif" width="400"></td>
+    <td><img src="./assets/gifs/Push_Swap.gif" width="400"></td>
     <td>
       <strong><a href="https://github.com/Drewski6/push_swap">Push_Swap</a></strong><br>
       <ul>
