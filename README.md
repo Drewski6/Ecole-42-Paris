@@ -32,6 +32,11 @@
       <div>
         <img alt="Static Badge" src="https://img.shields.io/badge/Python3--brightgreen?style=for-the-badge&logo=python"/>
         <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript--brightgreen?style=for-the-badge&logo=javascript"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Docker--brightgreen?style=for-the-badge&logo=docker"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Django--brightgreen?style=for-the-badge&logo=django"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/PostgresQL--brightgreen?style=for-the-badge&logo=postgresql"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
       </div>
     </td>
   </tr>
@@ -46,7 +51,15 @@
         <li>Time spent: August 2024 to September 2024 (2 months including vacations)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
       </ul>
-    </td>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Docker--brightgreen?style=for-the-badge&logo=docker"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/WordPress--brightgreen?style=for-the-badge&logo=wordpress"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/NGINX--brightgreen?style=for-the-badge&logo=nginx"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB--brightgreen?style=for-the-badge&logo=mongodb"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+        </div>
+      </td>
   </tr>
   
   <tr>
@@ -59,6 +72,11 @@
         <li>Time spent: End May 2024 to End July 2024 (2 months)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}115 / 100}$$ (Completed Some Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B--brightgreen?style=for-the-badge&logo=cplusplus"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
   
@@ -72,6 +90,11 @@
         <li>Time spent: End January 2024 to End May 2024 (4 months)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Available)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B--brightgreen?style=for-the-badge&logo=cplusplus"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -85,6 +108,11 @@
         <li>Time spent: Mid November 2023 to Mid December 2023 (1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}105 / 100}$$ (Completed Some Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -98,6 +126,9 @@
         <li>Time spent: End October 2023 to Mid November 2023 (2 weeks)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Available)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -111,6 +142,11 @@
         <li>Time spent: Beginning October 2023 to End October 2023 (~ 1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -124,6 +160,11 @@
         <li>Time spent: End July 2023 to Beginning October 2023 (~ 3 months including vacations)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}110 / 100}$$ (Completed Some Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -132,11 +173,16 @@
     <td>
       <strong><a href="https://github.com/Drewski6/FdF">FdF</a> (Fil de Fer / Wireframe Model)</strong><br>
       <ul>
-        <li>Intro to graphics. Create a wireframe map based on an input file.</li>
+        <li>Intro to graphics. Create a 3D wireframe map based on an input file.</li>
         <li><strong>Solo Project</strong></li>
         <li>Time spent: May 2023 to June 2023 (1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -150,6 +196,11 @@
         <li>Time spent: End April 2023 to May 2023 (1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -163,6 +214,11 @@
         <li>Time spent: Beginning April 2023 to End April 2023 (~ 1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -176,6 +232,11 @@
         <li>Time spent: March 2023 to April 2023 (1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -189,6 +250,11 @@
         <li>Time spent: January 2023 to February 2023 (1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}122 / 100}$$ (Completed Some Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -202,6 +268,11 @@
         <li>Time spent: December 2022 to January 2023 (1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -215,6 +286,11 @@
         <li>Time spent: November 2022 to December 2022 (1 month)</li>
         <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Make--brightgreen?style=for-the-badge&logo=make"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
@@ -233,6 +309,11 @@
         <li>Time spent: August 2022 (every day for 4 weeks)</li>
         <li><strong>Final Result</strong>: $${\color{lightgreen}Accepted}$$ and admitted as full-time student!</li>
       </ul>
+      <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Bash--brightgreen?style=for-the-badge&logo=gnubash"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+      <div/>
     </td>
   </tr>
 
