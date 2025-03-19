@@ -1,9 +1,9 @@
-# École 42 - Paris, Fr
+# École 42 in Paris
 
 ### What is École 42?
 
 <p style="text-indent: 2rem;">
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://42.fr">École 42</a> in Paris is an innovative, tuition-free coding school that revolutionizes the way programming is taught. It offers a rigorous, project-based curriculum where students learn through hands-on experience and peer collaboration rather than traditional lectures or professors. The school is known for its unique "peer-to-peer" learning model, which fosters a self-driven, independent approach to problem-solving. Students must overcome obstacles, work long hours, and engage in continuous collaboration, pushing them to develop not only technical skills but also perseverance, adaptability, and teamwork, setting it apart from conventional programming schools.
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://42.fr/en/homepage/">École 42</a> in Paris, France is an innovative, tuition-free coding school that revolutionizes the way programming is taught. It offers a rigorous, project-based curriculum where students learn through hands-on experience and peer collaboration rather than traditional lectures or professors. The school is known for its unique "peer-to-peer" learning model, which fosters a self-driven, independent approach to problem-solving. Students must overcome obstacles, work long hours, and engage in continuous collaboration, pushing them to develop not only technical skills but also perseverance, adaptability, and teamwork, setting it apart from conventional programming schools.
 </p>
 
 ### My 42 Journey
@@ -307,7 +307,7 @@
         <li>Daily Linux-based C coding challenges for beginners as an introduction to computer science.</li>
         <li><strong>Solo Projects</strong> with high emphasis on <strong>working collaboratively</strong> with other tryout participants</li>
         <li>Time spent: August 2022 (every day for 4 weeks)</li>
-        <li><strong>Final Result</strong>: $${\color{lightgreen}Accepted}$$ and admitted as full-time student!</li>
+        <li><strong>Final Result</strong>: $${\color{lightgreen}Accepted}$$ and admitted as a full-time student!</li>
       </ul>
       <div>
         <img alt="Static Badge" src="https://img.shields.io/badge/Bash--brightgreen?style=for-the-badge&logo=gnubash"/>
