@@ -2,149 +2,26 @@
 
 ### What is Ecole-42?
 
-### Projects
-(Listed in order from newest to oldest)
+- 
 
-#### ft_transcendence
-
-  - Partner project (Teamsize = 3)
-  - Time spent: October 2024 to January 2025 (4 months)
-  - Link: [ft_transcendence](https://github.com/Drewski6/ft_transcendence) - ft_transcendence (repo forked from teammates original repo)
-  - Final Grade: 118 / 100 (Completed Some Bonus)
-
-  - Description
-  - Most important things I learned
-
-#### Inception
-
-  - Solo Project
-  - Time spent: August 2024 to September 2024 (2 months including vacations)
-  - Link: https://github.com/Drewski6/inception
-  - Final Grade: 100 / 100 (Bonus Not Completed)
-
-#### ft_irc
-
-  - Partner project (Teamsize = 2)
-  - Time spent: End May 2024 to End July 2024 (2 months)
-  - Link: https://github.com/Drewski6/ft_irc
-  - Final Grade: 115 / 100 (Completed Some Bonus)
-
-#### C++ Modules (10 in total)
-
-  - Solo Project
-  - Time spent: End January 2024 to End May 2024 (4 months)
-  - Link: https://github.com/Drewski6/cpp
-  - Final Grade: 100 / 100 (Bonus Not Available)
-
-  - Description: intro to object oriented programming with the strictest possible language to do it.
-    Everything must be compiled with -Wall -Wextra -Werror (for immediate compiler failures on all errors).
-    No use of the STL (standard template library) until the final 2 projects.
-    Only using C++ 98 standard which leaves out a lot of quality of life features. 
-    If you want to do something, you have to do it from scratch. 
-
-#### cub3d
-
-  - Partner project (Teamsize = 2)
-  - Time spent: Mid November 2023 to Mid December 2023 (1 month)
-  - Link: https://github.com/Drewski6/cub3D
-  - Final Grade: 105 / 100 (Completed Some Bonus)
-
-#### NetPractice
-
-  - Solo Project
-  - Time spent: End October 2023 to Mid November 2023 (2 weeks)
-  - Link: https://github.com/Drewski6/NetPractice
-  - Final Grade: 100 / 100 (Bonus Not Available)
-
-#### Philosophers
-
-  - Solo Project
-  - Time spent: Beginning October 2023 to End October 2023 (~ 1 month)
-  - Link: https://github.com/Drewski6/philosophers
-  - Final Grade: 100 / 100 (Bonus Not Completed)
-
-#### minishell
-
-  - Partner project (Teamsize = 2)
-  - Time spent: End July 2023 to Beginning October 2023 (~ 3 months including vacations)
-  - Link: https://github.com/Drewski6/minishell
-  - Final Grade: 110 / 100 (Completed Some Bonus)
-
-#### FdF (fr: Fil de Fer) (en: Wireframe Model)
-
-  - Solo Project
-  - Time spent: May 2023 to June 2023 (1 month)
-  - Link: https://github.com/Drewski6/FdF
-  - Final Grade: 125 / 100 (Completed ALL Bonus)
-
-#### pipex
-
-  - Solo Project
-  - Time spent: End April 2023 to May 2023 (1 month)
-  - Link: https://github.com/Drewski6/pipex
-  - Final Grade: 125 / 100 (Completed ALL Bonus)
-
-#### push_swap
-
-  - Solo Project
-  - Time spent: Beginning April 2023 to End April 2023 (~ 1 month)
-  - Link: https://github.com/Drewski6/push_swap
-  - Final Grade: 125 / 100 (Completed ALL Bonus)
-
-#### Born2beroot
-
-  - Solo Project
-  - Time spent: March 2023 to April 2023 (1 month)
-  - Link: https://github.com/Drewski6/Born2beRoot
-  - Final Grade: 125 / 100 (Completed ALL Bonus)
-
-#### ft_printf
-
-  - Solo Project
-  - Time spent: January 2023 to February 2023 (1 month)
-  - Link: https://github.com/Drewski6/ft_printf
-  - Final Grade: 122 / 100 (Completed Some Bonus)
-
-#### get_next_line
-
-  - Solo Project
-  - Time spent: December 2022 to January 2023 (1 month)
-  - Link: https://github.com/Drewski6/get_next_line
-  - Final Grade: 125 / 100 (Completed ALL Bonus)
-
-#### Libft
-
-  - Solo Project
-  - Time spent: November 2022 to December 2022 (1 month)
-  - Link: https://github.com/Drewski6/Libft
-  - Final Grade: 125 / 100 (Completed ALL Bonus)
-
-#### C Piscine (Tryouts to get into the school)
-
-  - Solo Projects with high emphasis on working collaboratively with other tryout participents
-  - Time spent: August 2022 (every day for 4 weeks)
-  - Link: https://github.com/Drewski6/C_Piscine
-  - Final Result: Accepted and admitted as full time student!
-
-
-## Testing
+## Ecole 42 Projects (listed in order from newest to oldest)
 
 <table>
   <tr>
-    <th>Ecole 42 Projects</th>
+    <th>Common Core / Tronc Commun</th>
   </tr>
   
   <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
     <td>
       <strong>ft_transcendence</strong><br>
       - Partner project (Teamsize = 3)<br>
       - Time spent: October 2024 to January 2025 (4 months)<br>
-      - Link: <a href="https://github.com/Drewski6/ft_transcendence">ft_transcendence</a><br>
-      - Final Grade: 118 / 100 (Completed Some Bonus)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/ft_transcendence">ft_transcendence</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">118 / 100</span></strong> (Completed Some Bonus)<br>
       - Description<br>
       - Most important things I learned
     </td>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
   </tr>
   
   <tr>
@@ -153,20 +30,20 @@
       <strong>Inception</strong><br>
       - Solo Project<br>
       - Time spent: August 2024 to September 2024 (2 months including vacations)<br>
-      - Link: <a href="https://github.com/Drewski6/inception">Inception</a><br>
-      - Final Grade: 100 / 100 (Bonus Not Completed)
+      - GitHub Repo: <a href="https://github.com/Drewski6/inception">Inception</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">100 / 100</span></strong> (Bonus Not Completed)<br>
     </td>
   </tr>
   
   <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
     <td>
       <strong>ft_irc</strong><br>
       - Partner project (Teamsize = 2)<br>
       - Time spent: End May 2024 to End July 2024 (2 months)<br>
-      - Link: <a href="https://github.com/Drewski6/ft_irc">ft_irc</a><br>
-      - Final Grade: <strong><span style="color: #4d853a;">115 / 100</span></strong> (Completed Some Bonus)
+      - GitHub Repo: <a href="https://github.com/Drewski6/ft_irc">ft_irc</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">115 / 100</span></strong> (Completed Some Bonus)<br>
     </td>
-    <td><img src="./assets/images/scsh.png" width="400"></td>
   </tr>
   
   <tr>
@@ -175,9 +52,130 @@
       <strong>C++ Modules (10 in total)</strong><br>
       - Solo Project<br>
       - Time spent: End January 2024 to End May 2024 (4 months)<br>
-      - Link: <a href="https://github.com/Drewski6/cpp">C++ Modules</a><br>
-      - Final Grade: 100 / 100 (Bonus Not Available)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/cpp">C++ Modules</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">100 / 100</span></strong> (Bonus Not Available)<br>
       - Description: Intro to object-oriented programming with strict constraints.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>cub3d</strong><br>
+      - Partner Project. Team size: 2<br>
+      - Time spent: Mid November 2023 to Mid December 2023 (1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/cub3d">cub3d</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">105 / 100</span></strong> (Completed Some Bonus)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>NetPractice</strong><br>
+      - Solo Project<br>
+      - Time spent: End October 2023 to Mid November 2023 (2 weeks)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/NetPractice">NetPractice</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">100 / 100</span></strong> (Bonus Not Available)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>Philosophers</strong><br>
+      - Solo Project<br>
+      - Time spent: Beginning October 2023 to End October 2023 (~ 1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/philosophers">Philosophers</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">100 / 100</span></strong> (Bonus Not Completed)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>MiniShell</strong><br>
+      - Partner project (Teamsize = 2)<br>
+      - Time spent: End July 2023 to Beginning October 2023 (~ 3 months including vacations)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/minishell">MiniShell</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">110 / 100</span></strong> (Completed Some Bonus)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>FdF (Fil de Fer / Wireframe Model)</strong><br>
+      - Solo Project<br>
+      - Time spent: May 2023 to June 2023 (1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/FdF">FdF</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">125 / 100</span></strong> (Completed ALL Bonus)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>Pipex</strong><br>
+      - Solo Project<br>
+      - Time spent: End April 2023 to May 2023 (1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/pipex">Pipex</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">125 / 100</span></strong> (Completed ALL Bonus)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>Push_Swap</strong><br>
+      - Solo Project<br>
+      - Time spent: Beginning April 2023 to End April 2023 (~ 1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/push_swap">Push_Swap</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">125 / 100</span></strong> (Completed ALL Bonus)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>Born2beroot</strong><br>
+      - Solo Project<br>
+      - Time spent: March 2023 to April 2023 (1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/Born2beRoot">Born2beroot</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">125 / 100</span></strong> (Completed ALL Bonus)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>ft_printf</strong><br>
+      - Solo Project<br>
+      - Time spent: January 2023 to February 2023 (1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/ft_printf">ft_printf</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">122 / 100</span></strong> (Completed Some Bonus)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>get_next_line</strong><br>
+      - Solo Project<br>
+      - Time spent: December 2022 to January 2023 (1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/get_next_line">get_next_line</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">125 / 100</span></strong> (Completed ALL Bonus)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>Libft</strong><br>
+      - Solo Project<br>
+      - Time spent: November 2022 to December 2022 (1 month)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/Libft">Libft</a><br>
+      - Final Grade: <strong><span style="color: #4d853a;">125 / 100</span></strong> (Completed ALL Bonus)<br>
     </td>
   </tr>
 
@@ -185,4 +183,16 @@
     <th>C Piscine</th>
     <th></th>
   </tr>
+
+  <tr>
+    <td><img src="./assets/images/scsh.png" width="400"></td>
+    <td>
+      <strong>C Piscine (Tryouts to get into the school)</strong><br>
+      - Solo Projects with high emphasis on working collaboratively with other tryout participants<br>
+      - Time spent: August 2022 (every day for 4 weeks)<br>
+      - GitHub Repo: <a href="https://github.com/Drewski6/C_Piscine">C Piscine</a><br>
+      - Final Result: Accepted and admitted as full-time student!<br>
+    </td>
+  </tr>
+
 </table>
