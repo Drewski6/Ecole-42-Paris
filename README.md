@@ -133,4 +133,4 @@
 |---|---|
 | info | picture |
 | more info | another picture |
-| - item - item2| <img src="./assets/images/scsh.png" width="500"> |
+| item<br>item2| <img src="./assets/images/scsh.png" width="500"> |
