@@ -21,7 +21,7 @@
 <ul>
   <li>Create a full stack multiplayer pong game that's playable over the internet.</li>
   <li><strong>Partner project</strong> Team size: <strong>3</strong></li>
-  <li>Time spent: October 2024 to January 2025 (4 months)</li>
+  <li><strong>Time Spent</strong>: <strong>4 months</strong> (Oct 2024 - Jan 2025)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}118 / 100}$$ (Completed Some Bonus)</li>
 </ul>
 <div>
@@ -35,11 +35,11 @@
 </div>
 
 #### [Inception](https://github.com/Drewski6/inception)
-<img src="./assets/images/scsh.png" width="500">
+<img src="./assets/images/Inception.png" width="500">
 <ul>
-  <li>Intro to DevOps. Deploy a full stack application using Docker.</li>
+  <li>Intro to DevOps. Deploy a WordPress based web application using Docker.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: August 2024 to September 2024 (2 months including vacations)</li>
+  <li><strong>Time Spent</strong>: <strong>2 months</strong> (Aug 2024 - Sep 2024)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
 </ul>
 <div>
@@ -54,9 +54,9 @@
 #### [ft_irc](https://github.com/Drewski6/ft_irc)
 <img src="./assets/images/scsh.png" width="500">
 <ul>
-  <li>Create your own IRC (Internet Relay Chat) server.</li>
+  <li>Create your own IRC (Internet Relay Chat) server in C++.</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
-  <li>Time spent: End May 2024 to End July 2024 (2 months)</li>
+  <li><strong>Time Spent</strong>: <strong>2 months</strong> (May 2024 - Jul 2024)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}115 / 100}$$ (Completed Some Bonus)</li>
 </ul>
 <div>
@@ -68,9 +68,9 @@
 #### [C++ Modules](https://github.com/Drewski6/cpp) (10 in total)
 <img src="./assets/images/CPP_09.png" width="500">
 <ul>
-  <li>Intro to object-oriented programming.</li>
+  <li>Intro to object-oriented programming with the best place to start: <strong>C++98</strong>.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: End January 2024 to End May 2024 (4 months)</li>
+  <li><strong>Time Spent</strong>: <strong>4 months</strong> (Jan 2024 - May 2024)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Available)</li>
 </ul>
 <div>
@@ -84,7 +84,7 @@
 <ul>
   <li>Final C project. Create a graphics engine like the one used in Doom or Wolfenstein 3D.</li>
   <li><strong>Partner Project</strong> Team size: <strong>2</strong></li>
-  <li>Time spent: Mid November 2023 to Mid December 2023 (1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (Nov 2023 - Dec 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}105 / 100}$$ (Completed Some Bonus)</li>
 </ul>
 <div>
@@ -98,7 +98,7 @@
 <ul>
   <li>Intro to networking. Understanding the IP protocol.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: End October 2023 to Mid November 2023 (2 weeks)</li>
+  <li><strong>Time Spent</strong>: <strong>2 weeks</strong> (Oct 2023 - Nov 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Available)</li>
 </ul>
 <div>
@@ -108,9 +108,9 @@
 #### [Philosophers](https://github.com/Drewski6/philosophers)
 <img src="./assets/images/Philosophers.png" width="500">
 <ul>
-  <li>Solve the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">dining philosophers</a> problem using threads and mutexes.</li>
+  <li>Solve the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">dining philosophers</a> problem using threads and mutexes in C.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: Beginning October 2023 to End October 2023 (~ 1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (Oct 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
 </ul>
 <div>
@@ -122,9 +122,9 @@
 #### [MiniShell](https://github.com/Drewski6/minishell)
 <img src="./assets/gifs/MiniShell.gif" width="500">
 <ul>
-  <li>Make your own shell (sh, bash, zsh, etc).</li>
+  <li>Make your own shell (like sh, bash, zsh, etc) in C.</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
-  <li>Time spent: End July 2023 to Beginning October 2023 (~ 3 months including vacations)</li>
+  <li><strong>Time Spent</strong>: <strong>3 months</strong> (Jul 2023 - Oct 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}110 / 100}$$ (Completed Some Bonus)</li>
 </ul>
 <div>
@@ -136,9 +136,9 @@
 #### [FdF](https://github.com/Drewski6/FdF) (Fil de Fer / Wireframe Model)
 <img src="./assets/gifs/Fdf.gif" width="500">
 <ul>
-  <li>Intro to graphics. Create a 3D wireframe map based on an input file.</li>
+  <li>Intro to graphics. Create a 3D wireframe map based on an input file in C.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: May 2023 to June 2023 (1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (May 2023 - Jun 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
 </ul>
 <div>
@@ -148,11 +148,11 @@
 </div>
 
 #### [Pipex](https://github.com/Drewski6/pipex)
-<img src="./assets/images/scsh.png" width="500">
+<img src="./assets/images/Pipex.png" width="500">
 <ul>
   <li>Recreate the pipe from the command line in C.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: End April 2023 to May 2023 (1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (Apr 2023 - May 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
 </ul>
 <div>
@@ -166,7 +166,7 @@
 <ul>
   <li>Introduction to algorithms. Create a specific sorting algorithm in C.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: Beginning April 2023 to End April 2023 (~ 1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (Apr 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
 </ul>
 <div>
@@ -178,9 +178,9 @@
 #### [Born2beroot](https://github.com/Drewski6/Born2beRoot)
 <img src="./assets/images/scsh.png" width="500">
 <ul>
-  <li>Introduction to system administration. Set up a virtual machine for use as a server.</li>
+  <li>Introduction to system administration. Set up a virtual machine for use as a web and FTP (file transfer protocol) server.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: March 2023 to April 2023 (1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (Mar 2023 - Apr 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
 </ul>
 <div>
@@ -192,9 +192,9 @@
 #### [ft_printf](https://github.com/Drewski6/ft_printf)
 <img src="./assets/images/scsh.png" width="500">
 <ul>
-  <li>Recreate our own printf in C.</li>
+  <li>Recreate printf from the C Standard Library in C.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: January 2023 to February 2023 (1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (Jan 2023 - Feb 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}122 / 100}$$ (Completed Some Bonus)</li>
 </ul>
 <div>
@@ -208,7 +208,7 @@
 <ul>
   <li>Create a function to get the next line (up to \n) from a file descriptor.</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: December 2022 to January 2023 (1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (Dec 2022 - Jan 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
 </ul>
 <div>
@@ -218,11 +218,11 @@
 </div>
 
 #### [Libft](https://github.com/Drewski6/Libft)
-<img src="./assets/images/scsh.png" width="500">
+<img src="./assets/images/Libft.png" width="500">
 <ul>
-  <li>We aren't allowed to use the C Standard Library, so we have to make our own!</li>
+  <li>At École 42, we aren't allowed to use the C Standard Library, so we have to make our own!</li>
   <li><strong>Solo Project</strong></li>
-  <li>Time spent: November 2022 to December 2022 (1 month)</li>
+  <li><strong>Time Spent</strong>: <strong>1 month</strong> (Nov 2022 - Dec 2022)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
 </ul>
 <div>
@@ -237,8 +237,8 @@
 <img src="./assets/images/C_Piscine.png" width="500">
 <ul>
   <li>Daily Linux-based C coding challenges for beginners as an introduction to computer science.</li>
-  <li><strong>Solo Projects</strong> with high emphasis on <strong>working collaboratively</strong> with other tryout participants</li>
-  <li>Time spent: August 2022 (every day for 4 weeks)</li>
+  <li><strong>Solo Projects</strong> with high emphasis on <strong>working collaboratively</strong> with other tryout participants.</li>
+  <li><strong>Time Spent</strong>: <strong>4 weeks</strong> (Aug 2022)</li>
   <li><strong>Final Result</strong>: $${\color{lightgreen}Accepted}$$ and admitted as a full-time student!</li>
 </ul>
 <div>
