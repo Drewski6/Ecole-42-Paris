@@ -17,7 +17,7 @@
 ### Common Core / Tronc Commun
 
 #### [ft_transcendence](https://github.com/Drewski6/ft_transcendence)
-<img src="./assets/images/scsh.png" width="400">
+<img src="./assets/images/scsh.png" width="500">
 <ul>
   <li>Create a full stack multiplayer pong game that's playable over the internet.</li>
   <li><strong>Partner project</strong> Team size: <strong>3</strong></li>
@@ -35,7 +35,7 @@
 </div>
 
 #### [Inception](https://github.com/Drewski6/inception)
-<img src="./assets/images/scsh.png" width="400">
+<img src="./assets/images/scsh.png" width="500">
 <ul>
   <li>Intro to DevOps. Deploy a full stack application using Docker.</li>
   <li><strong>Solo Project</strong></li>
@@ -52,7 +52,7 @@
 </div>
 
 #### [ft_irc](https://github.com/Drewski6/ft_irc)
-<img src="./assets/images/scsh.png" width="400">
+<img src="./assets/images/scsh.png" width="500">
 <ul>
   <li>Create your own IRC (Internet Relay Chat) server.</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
@@ -66,7 +66,7 @@
 </div>
 
 #### [C++ Modules](https://github.com/Drewski6/cpp) (10 in total)
-<img src="./assets/images/CPP_09.png" width="400">
+<img src="./assets/images/CPP_09.png" width="500">
 <ul>
   <li>Intro to object-oriented programming.</li>
   <li><strong>Solo Project</strong></li>
@@ -80,7 +80,7 @@
 </div>
 
 #### [cub3d](https://github.com/Drewski6/cub3d)
-<img src="./assets/gifs/cub3d.gif" width="400">
+<img src="./assets/gifs/cub3d.gif" width="500">
 <ul>
   <li>Final C project. Create a graphics engine like the one used in Doom or Wolfenstein 3D.</li>
   <li><strong>Partner Project</strong> Team size: <strong>2</strong></li>
@@ -94,7 +94,7 @@
 </div>
 
 #### [NetPractice](https://github.com/Drewski6/NetPractice)
-<img src="./assets/images/NetPractice.png" width="400">
+<img src="./assets/images/NetPractice.png" width="500">
 <ul>
   <li>Intro to networking. Understanding the IP protocol.</li>
   <li><strong>Solo Project</strong></li>
@@ -106,7 +106,7 @@
 </div>
 
 #### [Philosophers](https://github.com/Drewski6/philosophers)
-<img src="./assets/images/Philosophers.png" width="400">
+<img src="./assets/images/Philosophers.png" width="500">
 <ul>
   <li>Solve the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">dining philosophers</a> problem using threads and mutexes.</li>
   <li><strong>Solo Project</strong></li>
@@ -120,7 +120,7 @@
 </div>
 
 #### [MiniShell](https://github.com/Drewski6/minishell)
-<img src="./assets/gifs/MiniShell.gif" width="400">
+<img src="./assets/gifs/MiniShell.gif" width="500">
 <ul>
   <li>Make your own shell (sh, bash, zsh, etc).</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
@@ -134,7 +134,7 @@
 </div>
 
 #### [FdF](https://github.com/Drewski6/FdF) (Fil de Fer / Wireframe Model)
-<img src="./assets/gifs/Fdf.gif" width="400">
+<img src="./assets/gifs/Fdf.gif" width="500">
 <ul>
   <li>Intro to graphics. Create a 3D wireframe map based on an input file.</li>
   <li><strong>Solo Project</strong></li>
@@ -148,7 +148,7 @@
 </div>
 
 #### [Pipex](https://github.com/Drewski6/pipex)
-<img src="./assets/images/scsh.png" width="400">
+<img src="./assets/images/scsh.png" width="500">
 <ul>
   <li>Recreate the pipe from the command line in C.</li>
   <li><strong>Solo Project</strong></li>
@@ -162,7 +162,7 @@
 </div>
 
 #### [Push_Swap](https://github.com/Drewski6/push_swap)
-<img src="./assets/gifs/Push_Swap.gif" width="400">
+<img src="./assets/gifs/Push_Swap.gif" width="500">
 <ul>
   <li>Introduction to algorithms. Create a specific sorting algorithm in C.</li>
   <li><strong>Solo Project</strong></li>
@@ -176,7 +176,7 @@
 </div>
 
 #### [Born2beroot](https://github.com/Drewski6/Born2beRoot)
-<img src="./assets/images/scsh.png" width="400">
+<img src="./assets/images/scsh.png" width="500">
 <ul>
   <li>Introduction to system administration. Set up a virtual machine for use as a server.</li>
   <li><strong>Solo Project</strong></li>
@@ -190,7 +190,7 @@
 </div>
 
 #### [ft_printf](https://github.com/Drewski6/ft_printf)
-<img src="./assets/images/scsh.png" width="400">
+<img src="./assets/images/scsh.png" width="500">
 <ul>
   <li>Recreate our own printf in C.</li>
   <li><strong>Solo Project</strong></li>
@@ -204,7 +204,7 @@
 </div>
 
 #### [get_next_line](https://github.com/Drewski6/get_next_line)
-<img src="./assets/images/scsh.png" width="400">
+<img src="./assets/images/scsh.png" width="500">
 <ul>
   <li>Create a function to get the next line (up to \n) from a file descriptor.</li>
   <li><strong>Solo Project</strong></li>
@@ -218,7 +218,7 @@
 </div>
 
 #### [Libft](https://github.com/Drewski6/Libft)
-<img src="./assets/images/scsh.png" width="400">
+<img src="./assets/images/scsh.png" width="500">
 <ul>
   <li>We aren't allowed to use the C Standard Library, so we have to make our own!</li>
   <li><strong>Solo Project</strong></li>
@@ -234,7 +234,7 @@
 ### C Piscine
 
 #### [C Piscine](https://github.com/Drewski6/C_Piscine) (Tryouts to get into the school)
-<img src="./assets/images/C_Piscine.png" width="400">
+<img src="./assets/images/C_Piscine.png" width="500">
 <ul>
   <li>Daily Linux-based C coding challenges for beginners as an introduction to computer science.</li>
   <li><strong>Solo Projects</strong> with high emphasis on <strong>working collaboratively</strong> with other tryout participants</li>
