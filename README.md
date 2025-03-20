@@ -108,7 +108,7 @@
 #### [Philosophers](https://github.com/Drewski6/philosophers)
 <img src="./assets/images/Philosophers.png" width="500">
 <ul>
-  <li>Solve the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">dining philosophers</a> problem using threads and mutexes in C.</li>
+  <li>Multithreading and concurrency. Solve the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">dining philosophers</a> problem using threads and mutexes in C.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Oct 2023)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
@@ -176,7 +176,7 @@
 </div>
 
 #### [Born2beroot](https://github.com/Drewski6/Born2beRoot)
-<img src="./assets/images/scsh.png" width="500">
+<img src="./assets/images/Born2beroot.png" width="500">
 <ul>
   <li>Introduction to system administration. Set up a virtual machine for use as a web and FTP (file transfer protocol) server.</li>
   <li><strong>Solo Project</strong></li>
@@ -190,7 +190,7 @@
 </div>
 
 #### [ft_printf](https://github.com/Drewski6/ft_printf)
-<img src="./assets/images/scsh.png" width="500">
+<img src="./assets/images/ft_printf.png" width="500">
 <ul>
   <li>Recreate printf from the C Standard Library in C.</li>
   <li><strong>Solo Project</strong></li>
@@ -204,7 +204,7 @@
 </div>
 
 #### [get_next_line](https://github.com/Drewski6/get_next_line)
-<img src="./assets/images/scsh.png" width="500">
+<img src="./assets/images/get_next_line.png" width="500">
 <ul>
   <li>Create a function to get the next line (up to \n) from a file descriptor.</li>
   <li><strong>Solo Project</strong></li>
