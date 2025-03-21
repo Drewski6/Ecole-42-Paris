@@ -17,7 +17,7 @@
 ### Common Core / Tronc Commun
 
 #### [ft_transcendence](https://github.com/Drewski6/ft_transcendence)
-<img src="./assets/images/scsh.png" width="500">
+<img src="./assets/gifs/ft_transcendence.gif" width="500">
 <ul>
   <li>Create a full stack multiplayer pong game that's playable over the internet.</li>
   <li><strong>Partner project</strong> Team size: <strong>3</strong></li>
@@ -52,7 +52,7 @@
 </div>
 
 #### [ft_irc](https://github.com/Drewski6/ft_irc)
-<img src="./assets/images/scsh.png" width="500">
+<img src="./assets/images/ft_irc.png" width="500">
 <ul>
   <li>Create your own IRC (Internet Relay Chat) server in C++.</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
