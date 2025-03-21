@@ -17,7 +17,7 @@
 ### Common Core / Tronc Commun
 
 #### [ft_transcendence](https://github.com/Drewski6/ft_transcendence)
-<img src="./assets/gifs/ft_transcendence.gif" width="500">
+<img src="./assets/gifs/ft_transcendence.gif" alt="Loading GIF..." width="500">
 <ul>
   <li>Create a full stack multiplayer pong game that's playable over the internet.</li>
   <li><strong>Partner project</strong> Team size: <strong>3</strong></li>
@@ -80,7 +80,7 @@
 </div>
 
 #### [cub3d](https://github.com/Drewski6/cub3d)
-<img src="./assets/gifs/cub3d.gif" width="500">
+<img src="./assets/gifs/cub3d.gif" alt="Loading GIF..." width="500">
 <ul>
   <li>Final C project. Create a graphics engine like the one used in Doom or Wolfenstein 3D.</li>
   <li><strong>Partner Project</strong> Team size: <strong>2</strong></li>
@@ -120,7 +120,7 @@
 </div>
 
 #### [MiniShell](https://github.com/Drewski6/minishell)
-<img src="./assets/gifs/MiniShell.gif" width="500">
+<img src="./assets/gifs/MiniShell.gif" alt="Loading GIF..." width="500">
 <ul>
   <li>Make your own shell (like sh, bash, zsh, etc) in C.</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
@@ -134,7 +134,7 @@
 </div>
 
 #### [FdF](https://github.com/Drewski6/FdF) (Fil de Fer / Wireframe Model)
-<img src="./assets/gifs/Fdf.gif" width="500">
+<img src="./assets/gifs/Fdf.gif" alt="Loading GIF..." width="500">
 <ul>
   <li>Intro to graphics. Create a 3D wireframe map based on an input file in C.</li>
   <li><strong>Solo Project</strong></li>
@@ -162,7 +162,7 @@
 </div>
 
 #### [Push_Swap](https://github.com/Drewski6/push_swap)
-<img src="./assets/gifs/Push_Swap.gif" width="500">
+<img src="./assets/gifs/Push_Swap.gif" alt="Loading GIF..." width="500">
 <ul>
   <li>Introduction to algorithms. Create a specific sorting algorithm in C.</li>
   <li><strong>Solo Project</strong></li>
