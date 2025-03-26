@@ -23,6 +23,11 @@
   <li><strong>Partner project</strong> Team size: <strong>3</strong></li>
   <li><strong>Time Spent</strong>: <strong>4 months</strong> (Oct 2024 - Jan 2025)</li>
   <li><strong>Final Grade</strong>: $${\color{lightgreen}118 / 100}$$ (Completed Some Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=118/100&color=00ff00&width=53"/>
+    (Completed Some Bonus)
+  </li>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript--brightgreen?style=for-the-badge&logo=javascript"/>
