@@ -22,11 +22,9 @@
   <li>Create a full stack multiplayer pong game that's playable over the internet.</li>
   <li><strong>Partner project</strong> Team size: <strong>3</strong></li>
   <li><strong>Time Spent</strong>: <strong>4 months</strong> (Oct 2024 - Jan 2025)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}118 / 100}$$ (Completed Some Bonus)</li>
   <li>
-    <strong>Final Grade</strong>:
-    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=118/100&color=00ff00&width=53"/>
-    (Completed Some Bonus)
+    <strong>Final Grade</strong> (Completed Some Bonus):
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=118/100&color=90EE90&width=53"/>
   </li>
 </ul>
 <div>
