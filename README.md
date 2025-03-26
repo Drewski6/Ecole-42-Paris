@@ -24,7 +24,7 @@
   <li><strong>Time Spent</strong>: <strong>4 months</strong> (Oct 2024 - Jan 2025)</li>
   <li>
     <strong>Final Grade</strong> (Completed Some Bonus):
-    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=118/100&color=90EE90&width=53"/>
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=118/100&color=90EE90&width=65"/>
   </li>
 </ul>
 <div>
