@@ -22,7 +22,10 @@
   <li>Use Kubernetes and ArgoCD to create a deployment pipeline for dockerized applicaitons</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
   <li><strong>Time Spent</strong>: <strong>4 months</strong> (Nov 2025 - Feb 2026)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=100/100&color=90EE90&width=65"/>
+  </li>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Vagrant--brightgreen?style=for-the-badge&logo=vagrant">
@@ -38,7 +41,10 @@
   <li>First professional internship where I created a healthcare focused web application.</li>
   <li><strong>Internship at Key Pharma Consulting</strong></li>
   <li><strong>Time Spent</strong>: <strong>6 months</strong> (Apr 2025 - Oct 2025)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=100/100&color=90EE90&width=65"/>
+  </li>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Python3--brightgreen?style=for-the-badge&logo=python"/>
