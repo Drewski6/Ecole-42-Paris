@@ -9,7 +9,9 @@
 ### My 42 Journey
 
 <p style="text-indent: 2rem;">
-  &nbsp;&nbsp;&nbsp;&nbsp;I Started École 42 in Paris, France in August 2022 with the C picsine. After the 1 month long try-outs I was accepted into the school and started the common core in November 2022. I finished the common core in January 2025.
+  I started at École 42 in Paris, France, in August 2022 with the C Piscine. After completing the month-long selection process, I was accepted into the school and began the Common Core in November 2022.
+  The Common Core is the foundational part of the program that all students complete to build a strong understanding of project development and programming fundamentals. I completed it in January 2025.
+  I am now in the Post-Common Core phase, where I can choose from a wide range of projects. This allows me to gain experience in specific areas of computer science that I am interested in specializing in.
 </p>
 
 ## Ecole 42 Projects - Listed in order from most recent to oldest
