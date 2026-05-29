@@ -59,7 +59,11 @@
   <li>Create a full stack multiplayer pong game that's playable over the internet.</li>
   <li><strong>Partner project</strong> Team size: <strong>3</strong></li>
   <li><strong>Time Spent</strong>: <strong>4 months</strong> (Oct 2024 - Jan 2025)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}118 / 100}$$ (Completed Some Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=118/100&color=90EE90&width=65"/>
+  </li>
+  <p>Some Bonus Completed</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript--brightgreen?style=for-the-badge&logo=javascript"/>
@@ -77,7 +81,11 @@
   <li>Intro to DevOps. Deploy a WordPress based web application using Docker.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>2 months</strong> (Aug 2024 - Sep 2024)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=100/100&color=90EE90&width=65"/>
+  </li>
+  <p>Bonus Not Completed</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker--brightgreen?style=for-the-badge&logo=docker"/>
@@ -94,7 +102,11 @@
   <li>Create your own IRC (Internet Relay Chat) server in C++.</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
   <li><strong>Time Spent</strong>: <strong>2 months</strong> (May 2024 - Jul 2024)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}115 / 100}$$ (Completed Some Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=115/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed Some Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B--brightgreen?style=for-the-badge&logo=cplusplus"/>
@@ -108,7 +120,11 @@
   <li>Intro to object-oriented programming with the best place to start: <strong>C++98</strong>.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>4 months</strong> (Jan 2024 - May 2024)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Available)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=100/100&color=90EE90&width=65"/>
+  </li>
+  <p>Bonus Not Available</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B--brightgreen?style=for-the-badge&logo=cplusplus"/>
@@ -122,7 +138,11 @@
   <li>Final C project. Create a graphics engine like the one used in Doom or Wolfenstein 3D.</li>
   <li><strong>Partner Project</strong> Team size: <strong>2</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Nov 2023 - Dec 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}105 / 100}$$ (Completed Some Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=105/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed Some Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -136,7 +156,11 @@
   <li>Intro to networking. Understanding the IP protocol.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>2 weeks</strong> (Oct 2023 - Nov 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Available)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=100/100&color=90EE90&width=65"/>
+  </li>
+  <p>Bonus Not Available</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
@@ -148,7 +172,11 @@
   <li>Multithreading and concurrency. Solve the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">dining philosophers</a> problem using threads and mutexes in C.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Oct 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=100/100&color=90EE90&width=65"/>
+  </li>
+  <p>Bonus Not Completed</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -162,7 +190,11 @@
   <li>Make your own shell (like sh, bash, zsh, etc) in C.</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
   <li><strong>Time Spent</strong>: <strong>3 months</strong> (Jul 2023 - Oct 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}110 / 100}$$ (Completed Some Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=110/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed Some Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -176,7 +208,11 @@
   <li>Intro to graphics. Create a 3D wireframe map based on an input file in C.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (May 2023 - Jun 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=125/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed ALL Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -190,7 +226,11 @@
   <li>Recreate the pipe from the command line in C.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Apr 2023 - May 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=125/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed ALL Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -204,7 +244,11 @@
   <li>Introduction to algorithms. Create a specific sorting algorithm in C.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Apr 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=125/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed ALL Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -218,7 +262,11 @@
   <li>Introduction to system administration. Set up a virtual machine for use as a web and FTP (file transfer protocol) server.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Mar 2023 - Apr 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=125/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed ALL Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -232,7 +280,11 @@
   <li>Recreate printf from the C Standard Library in C.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Jan 2023 - Feb 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}122 / 100}$$ (Completed Some Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=122/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed Some Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -246,7 +298,11 @@
   <li>Create a function to get the next line (up to \n) from a file descriptor.</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Dec 2022 - Jan 2023)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=125/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed ALL Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -260,7 +316,11 @@
   <li>At École 42, we aren't allowed to use the C Standard Library, so we have to make our own!</li>
   <li><strong>Solo Project</strong></li>
   <li><strong>Time Spent</strong>: <strong>1 month</strong> (Nov 2022 - Dec 2022)</li>
-  <li><strong>Final Grade</strong>: $${\color{lightgreen}125 / 100}$$ (Completed ALL Bonus)</li>
+  <li>
+    <strong>Final Grade</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=125/100&color=90EE90&width=65"/>
+  </li>
+  <p>Completed ALL Bonus</p>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C--brightgreen?style=for-the-badge&logo=c"/>
@@ -276,7 +336,10 @@
   <li>Daily Linux-based C coding challenges for beginners as an introduction to computer science.</li>
   <li><strong>Solo Projects</strong> with high emphasis on <strong>working collaboratively</strong> with other tryout participants.</li>
   <li><strong>Time Spent</strong>: <strong>4 weeks</strong> (Aug 2022)</li>
-  <li><strong>Final Result</strong>: $${\color{lightgreen}Accepted}$$ and admitted as a full-time student!</li>
+  <li>
+    <strong>Final Result</strong>:
+    <img src="https://github-colored-text-fn3z.vercel.app/api/index?text=ACCEPTED&color=90EE90&width=85"/>
+  </li>
 </ul>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Bash--brightgreen?style=for-the-badge&logo=gnubash"/>
