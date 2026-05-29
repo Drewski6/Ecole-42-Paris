@@ -14,7 +14,7 @@
 
 ## Ecole 42 Projects - Listed in order from most recent to oldest
 
-### Post Common core
+### Post Common Core
 
 #### [Inception of Things](https://github.com/Drewski6/Inception_of_Things)
 <img src="./assets/images/Inception_of_Things.png" width="500">
