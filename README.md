@@ -14,6 +14,43 @@
 
 ## Ecole 42 Projects - Listed in order from most recent to oldest
 
+### Post Common core
+
+#### [Inception of Things](https://github.com/Drewski6/Inception_of_Things)
+<img src="./assets/images/Inception_of_Things.png" width="500">
+<ul>
+  <li>Use Kubernetes and ArgoCD to create a deployment pipeline for dockerized applicaitons</li>
+  <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
+  <li><strong>Time Spent</strong>: <strong>4 months</strong> (Nov 2025 - Feb 2026)</li>
+  <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$ (Bonus Not Completed)</li>
+</ul>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vagrant--brightgreen?style=for-the-badge&logo=vagrant">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes--brightgreen?style=for-the-badge&logo=kubernetes">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ArgoCD--brightgreen?style=for-the-badge&logo=argocd">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker--brightgreen?style=for-the-badge&logo=docker"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+</div>
+
+#### [Internship 1](https://github.com/Drewski6/Ecole42_Internship_1)
+<img src="./assets/images/atlas_auth.png" width="500">
+<ul>
+  <li>First professional internship where I created a healthcare focused web application.</li>
+  <li><strong>Internship at Key Pharma Consulting</strong></li>
+  <li><strong>Time Spent</strong>: <strong>6 months</strong> (Apr 2025 - Oct 2025)</li>
+  <li><strong>Final Grade</strong>: $${\color{lightgreen}100 / 100}$$</li>
+</ul>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python3--brightgreen?style=for-the-badge&logo=python"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Django--brightgreen?style=for-the-badge&logo=django"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker--brightgreen?style=for-the-badge&logo=docker"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL--brightgreen?style=for-the-badge&logo=mysql">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NGINX--brightgreen?style=for-the-badge&logo=nginx"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS--brightgreen?style=for-the-badge&logo=tailwindcss">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git--brightgreen?style=for-the-badge&logo=git"/>
+</div>
+
+
 ### Common Core / Tronc Commun
 
 #### [ft_transcendence](https://github.com/Drewski6/ft_transcendence)
