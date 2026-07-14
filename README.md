@@ -27,7 +27,7 @@
 #### [Inception of Things](https://github.com/Drewski6/Inception_of_Things)
 <img src="./assets/images/Inception_of_Things.png" width="500">
 <ul>
-  <li>Use Kubernetes and ArgoCD to create a deployment pipeline for dockerized applicaitons</li>
+  <li>Use Kubernetes and ArgoCD to create a deployment pipeline for dockerized applications</li>
   <li><strong>Partner project</strong> Team size: <strong>2</strong></li>
   <li><strong>Time Spent</strong>: <strong>4 months</strong> (Nov 2025 - Feb 2026)</li>
   <li>
